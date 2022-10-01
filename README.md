@@ -1,1 +1,0 @@
-# buse_alkan_odev6
