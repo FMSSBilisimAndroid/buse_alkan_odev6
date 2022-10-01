@@ -2,8 +2,12 @@
 
 ## Outputs
 <b>Sonsuz Döngü İle Kullanım</b><br/>
-<p><img align="left" width="644px"; src="https://raw.githubusercontent.com/FMSSBilisimAndroid/buse_alkan_odev6/main/CoroutinesCounter/screens/sonsuzDongu.png?token=GHSAT0AAAAAABZNSFMYN6GVGC7PJPVFPHR6YZYA2JQ"/></p><br/><br/>
 
-<b>Sınırlı Döngü İle Kullanım</b><br/>
-<p><img align="left" width="644px"; src="https://raw.githubusercontent.com/FMSSBilisimAndroid/buse_alkan_odev6/main/CoroutinesCounter/screens/sinirliDongu.png?token=GHSAT0AAAAAABZNSFMYDV6BPHVMFXV2DFTYYZYA6TQ"/></p>
+![sonsuzDongu](https://user-images.githubusercontent.com/60299020/193402736-7115c5b0-a7b4-4e55-a191-818773503430.png)
+
+
+
+
+
+
 
